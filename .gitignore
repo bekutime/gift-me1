@@ -1,0 +1,7 @@
+venv
+db.sqlite3
+manage.py
+.idea
+identifier.sqlite
+media
+__pycache__
