@@ -4,3 +4,4 @@ db.sqlite3
 identifier.sqlite
 media
 __pycache__
+.env
